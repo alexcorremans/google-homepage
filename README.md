@@ -1,1 +1,3 @@
-This is a project meant to teach me some basic HTML and CSS by recreating (visually) the Google homepage. 
+To learn some basic HTML and CSS, I visually recreated the Google (Belgium) homepage. 
+
+From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)
